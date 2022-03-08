@@ -1,0 +1,43 @@
+h1{
+    color: blueviolet;
+}
+.titulo {
+    color: cornflowerblue;
+
+}
+.titulo2{
+    color:black;
+    background-color: pink;
+}
+.titulo3 {
+    color: green;
+    font-size:x-large
+}
+#otrotitulo{
+    color: palevioletred;
+
+}
+
+body{
+    background-image: url(./imagenes/depositphotos_26520613-stock-photo-pug-sitting-and-panting-1.jpeg);
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+/*unidad de medida absoluta PX*/
+.cuadrado {
+    width: 200px;   /*ancho*/
+    height: 200px; /*alto*/
+    background-color: aquamarine;
+}
+/* .pug {
+    width: 700px;
+    height: 700px;
+    background-image: url(./imagenes/depositphotos_26520613-stock-photo-pug-sitting-and-panting-1.jpeg)*/
+    
+strong {
+    color: aqua;
+    font-size: x-large;
+}
